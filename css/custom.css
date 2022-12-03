@@ -77,7 +77,7 @@ p{
     margin-right: auto;
 }
 
-p{
+.textpara{
     text-align: center;
     float:right;
 }
