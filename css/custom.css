@@ -1,0 +1,110 @@
+.logo{
+    height:30%;
+    width: 30%;
+}
+h1{
+    font-family: 'Segoe UI';
+    font-weight: bold;
+    color: black;
+}
+p{
+    font-family:'Segoe UI';
+    font-size: larger;
+    font-weight: bold;
+    color: antiquewhite;
+}
+
+.navbar.navbar-expand-xl.navbar-light.bg-success li a{
+    color:antiquewhite
+}
+
+.navbar-brand{
+    text-transform: uppercase;
+    color: antiquewhite !important;
+}
+body {
+    background-color: #2e5a41;
+}
+
+.card-img{
+    height: 30vh;
+    object-fit: cover;
+}
+
+  
+
+h2{
+    font-family: 'Segoe UI';
+    font-weight: bold;
+    color: antiquewhite;
+}
+h3{
+    font-family: 'Segoe UI';
+    font-weight: bold;
+    color: antiquewhite;
+}
+h4{
+    font-family: 'Segoe UI';
+    font-weight: bold;
+    color: antiquewhite;
+}
+h5{
+    font-family: 'Segoe UI';
+    font-weight: bold;
+    color: antiquewhite;
+}
+
+p{
+    font-family: 'Segoe UI';
+    font-weight: bold;
+    color: antiquewhite;
+}
+.text-center{
+    color:antiquewhite;
+}
+
+.projectheader {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height:20px;
+  width:1000px;
+}
+#productIMG {
+    max-width: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p{
+    text-align: center;
+    float:right;
+}
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 10px;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+  h6{
+    font-size: xx-large;
+    font-family: 'Segoe UI';
+    font-weight: bold;
+    color: antiquewhite;
+}
+h7{
+    font-size: xx-large;
+    font-family: 'Segoe UI';
+    font-weight: bold;
+    color: antiquewhite;
+}
+h8{
+    font-size: xx-large;
+    font-family: 'Segoe UI';
+    font-weight: bold;
+    color: antiquewhite;
+}
